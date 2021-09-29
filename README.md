@@ -5,8 +5,8 @@ The project is based on Firebird V Robot and Raspberry Pi Model B. The robot rec
 
 [![Project Demo](https://img.youtube.com/vi/gilMDELn1-A/0.jpg)](https://youtu.be/gilMDELn1-A)
 
-# Image Procesing
+## Image Processing
 The "fruit_detectTask4.py" file detects the fruits in real-time via camera  mounted on the bot.
 
-# Complete Task
-This file contains arduino codes for complete traversal of the arena.
+## Complete Task
+This folder contains arduino codes for complete traversal of the arena.
